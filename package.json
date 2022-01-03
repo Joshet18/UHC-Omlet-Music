@@ -1,0 +1,21 @@
+{
+  "name": "blum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dbd.js": "^2.2.6",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "ping-monitor": "^0.6.1",
+    "workerpool": "6.1.2"
+  }
+}
